@@ -1,4 +1,4 @@
-package project.angoty.accountservice.repository;
+package project.angoty.accountservice.repositories;
 
 import project.angoty.accountservice.entities.Account;
 import org.springframework.data.jpa.repository.JpaRepository;
